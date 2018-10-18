@@ -1,0 +1,54 @@
+.floydm  {
+ color:white;  
+}
+.fcbb {
+ color:white;   
+}
+.curry {
+ color:white;   
+}
+.nfl {
+ color:white;   
+}    
+img {
+    height: 175px;
+}
+img:hover {
+    height: 300px;
+    transition: height 2s;
+}
+
+ul:hover {
+    color:red;
+    transition: color 10s;
+
+}    
+    
+    
+
+h1 {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-family: 'K2D', sans-serif;
+}
+body {
+    font-family: 'oswald', cursive;
+}
+h2 {
+    font-family: 'Anton', sans-serif;
+}
+h1 {
+    color:red;
+}
+h2 {
+    color:red;
+}
+h1{
+    border:dashed;
+}
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kq0_CqVj9_lI9nj1m-4JO9b96hTIRT79-DI0zUpQrUed-0X0");
+    background-color: #cccccc;
+}
+body {
+    text-align:center;
+}
