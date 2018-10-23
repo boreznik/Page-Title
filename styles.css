@@ -1,54 +1,49 @@
-.floydm  {
- color:white;  
+.floydm {
+     color:white;
 }
-.fcbb {
- color:white;   
+ .fcbb {
+     color:white;
 }
-.curry {
- color:white;   
+ .curry {
+     color:white;
 }
-.nfl {
- color:white;   
-}    
-img {
-    height: 175px;
+ .nfl {
+     color:white;
 }
-img:hover {
-    height: 300px;
-    transition: height 2s;
+ img {
+     height: 175px;
 }
-
-ul:hover {
-    color:red;
-    transition: color 10s;
-
-}    
-    
-    
-
-h1 {
-    font-family: 'Bai Jamjuree', sans-serif;
-    font-family: 'K2D', sans-serif;
+ img:hover {
+     height: 300px;
+     transition: height 2s;
 }
-body {
-    font-family: 'oswald', cursive;
+ ul:hover {
+     color:red;
+     transition: color 10s;
 }
-h2 {
-    font-family: 'Anton', sans-serif;
+ .dashed {
+     border:dashed;
+     font-size:3em;
 }
-h1 {
-    color:red;
+ h1 {
+     font-family: 'K2D', sans-serif;
+     color:red;
 }
-h2 {
-    color:red;
+ body {
+     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kq0_CqVj9_lI9nj1m-4JO9b96hTIRT79-DI0zUpQrUed-0X0");
+     background-color: #cccccc;
+     text-align:center;
 }
-h1{
-    border:dashed;
+ .bestMovie {
+     font-family: 'Mali', cursive;
 }
-body {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kq0_CqVj9_lI9nj1m-4JO9b96hTIRT79-DI0zUpQrUed-0X0");
-    background-color: #cccccc;
+ .bestArtist {
+     font-family: 'Poppins', sans-serif;
 }
-body {
-    text-align:center;
+ .bestGame {
+     font-family: 'Ubuntu', sans-serif;
 }
+ .bestClass {
+     font-family: 'Oswald', sans-serif;
+}
+ 
